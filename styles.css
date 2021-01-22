@@ -26,6 +26,12 @@ body {
   border-radius: 20%;
 }
 
+.bStart{
+  font-family: 'Press Start 2P', cursive;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
 .game-over {
   background-color: red;
   opacity: 0.8;
